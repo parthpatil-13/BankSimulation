@@ -27,4 +27,4 @@ Simulate basic bank operations such as deposit, withdrawal, checking balance, in
 1. **Install Java JDK**  
    Ensure Java is installed by running:
    ```bash
-   
+   java -version
